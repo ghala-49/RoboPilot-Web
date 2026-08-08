@@ -1,8 +1,19 @@
+
+<div align="center">
+
 # Robot Control Interface
 
 ### A browser-based control interface for interacting with a robot through movement commands.
 
-<img src="interface/robot-control.png" width="900" alt="Robot Control Interface">
+<br>
+
+<a href="https://ghala.free.je/db/">
+  <img src="https://img.shields.io/badge/ENTER%20THE%20INTERFACE-0F4C81?style=flat&labelColor=#3dbfcc" height="40" alt="Enter the Robot Control Interface">
+</a>
+
+<br><br>
+
+<img src="robot-control.png" width="900" alt="Robot Control Interface">
 
 ---
 
@@ -34,8 +45,6 @@ This creates a simple communication layer between the browser interface and the 
 
 ### Movement Guide
 
-<img src="interface/movement-guide.png" width="100%" alt="Robot Movement Guide">
-
 The movement guide provides a visual reference for the available commands and their corresponding robot actions.
 
 It makes the command system easier to understand when working with different movements and sequences.
@@ -58,13 +67,13 @@ Each interaction begins in the browser, where a movement can be triggered throug
 
 ### Main Control Interface
 
-<img src="interface/robot-control.png" width="100%" alt="Main Robot Control Interface">
+<img src="robot-control.png" width="100%" alt="Main Robot Control Interface">
 
 The main interface provides the controls required to interact with the robot and trigger its available movements.
 
 ### Movement Reference
 
-<img src="interface/movement-guide.png" width="100%" alt="Robot Movement Reference">
+<img src="movement-guide.png" width="100%" alt="Robot Movement Reference">
 
 The movement reference acts as a visual command guide, showing how the available controls correspond to different robot movements.
 
